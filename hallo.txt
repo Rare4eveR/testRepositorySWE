@@ -1,4 +1,10 @@
 Hello world 
 Verändert derchamp
+<<<<<<< HEAD
 
 Die Datei heißt hallo.txt und nicht test.txt
+=======
+Randip
+
+Wilkommen am bib
+>>>>>>> 8d4be7a0ff9f857e2c7cf9ce46458c3672a6c904
